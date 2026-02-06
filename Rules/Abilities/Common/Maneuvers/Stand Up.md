@@ -15,4 +15,4 @@ type: common-ability/maneuver
 
 #### Stand Up
 
-A creature can use the Stand Up maneuver to stand up if they are [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D), ending that condition. Alternatively, they can use this maneuver to make a willing adjacent [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) creature stand up.
+A creature can use the Stand Up maneuver to stand up if they are [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX), ending that condition. Alternatively, they can use this maneuver to make a willing adjacent [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) creature stand up.

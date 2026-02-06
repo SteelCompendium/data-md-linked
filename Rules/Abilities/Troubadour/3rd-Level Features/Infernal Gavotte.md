@@ -37,8 +37,8 @@ type: feature/ability/troubadour/3rd-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 5 fire damage; A < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 7 fire damage; A < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 10 fire damage; A < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 5 fire damage; A < WEAK, [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save ends)
+- **12-16:** 7 fire damage; A < AVERAGE, [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save ends)
+- **17+:** 10 fire damage; A < STRONG, [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save ends)
 
 **Effect:** Each ally in the area can shift up to 2 squares.

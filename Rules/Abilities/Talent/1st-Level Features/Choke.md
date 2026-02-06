@@ -37,8 +37,8 @@ type: feature/ability/talent/1st-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 3 + R damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 5 + R damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 8 + R damage; M < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 3 + R damage; M < WEAK, [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends)
+- **12-16:** 5 + R damage; M < AVERAGE, [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends)
+- **17+:** 8 + R damage; M < STRONG, [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)
 
-**Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) by this ability, this forced movement ignores their stability.
+**Effect:** You can vertical pull the target up to 2 squares. If the target is made [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) by this ability, this forced movement ignores their stability.

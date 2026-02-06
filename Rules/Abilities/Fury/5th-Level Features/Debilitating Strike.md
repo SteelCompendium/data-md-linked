@@ -36,8 +36,8 @@ type: feature/ability/fury/5th-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 10 + M damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 14 + M damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 20 + M damage; M < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 10 + M damage; M < WEAK, [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends)
+- **12-16:** 14 + M damage; M < AVERAGE, [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends)
+- **17+:** 20 + M damage; M < STRONG, [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends)
 
-**Effect:** While [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way, the target takes 1 damage for every square they move, including from forced movement.
+**Effect:** While [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) this way, the target takes 1 damage for every square they move, including from forced movement.

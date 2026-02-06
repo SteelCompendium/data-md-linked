@@ -63,9 +63,9 @@ Choose one signature ability from the following options. Signature abilities can
 >
 > **Power Roll + Might:**
 >
-> - **≤11:** 2 + M holy damage; P < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 7 + M holy damage; P < STRONG, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 2 + M holy damage; P < WEAK, [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends)
+> - **12-16:** 5 + M holy damage; P < AVERAGE, [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends)
+> - **17+:** 7 + M holy damage; P < STRONG, [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends)
 
 <!-- -->
 > ###### Your Allies Cannot Save You!

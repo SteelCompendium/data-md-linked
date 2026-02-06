@@ -37,8 +37,8 @@ type: feature/ability/fury/5th-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 9 + M damage; M < WEAK, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 13 + M damage; M < AVERAGE, [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 18 + M damage; M < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 9 + M damage; M < WEAK, [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends)
+- **12-16:** 13 + M damage; M < AVERAGE, [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends)
+- **17+:** 18 + M damage; M < STRONG, [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)
 
-**Effect:** While the target is [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) this way, any other effect that would make the target [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) instead makes them [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) by this ability. Additionally, a creature who fails the saving throw while [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).
+**Effect:** While the target is [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) this way, any other effect that would make the target [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) instead makes them [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) by this ability. Additionally, a creature who fails the saving throw while [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).

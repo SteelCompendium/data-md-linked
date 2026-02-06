@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Reason:**
 >
-> - **≤11:** 5 + R damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT)
-> - **12-16:** 9 + R damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT)
-> - **17+:** 12 + R damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT)
+> - **≤11:** 5 + R damage; [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT)
+> - **12-16:** 9 + R damage; [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT)
+> - **17+:** 12 + R damage; [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT)
 >
 > **Effect:** One ally adjacent to the target can spend a Recovery.
 

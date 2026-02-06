@@ -37,6 +37,6 @@ type: feature/ability/conduit/6th-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** 8 + I damage; A < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 12 + I damage; A < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 16 + I damage; A < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 8 + I damage; A < WEAK, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)
+- **12-16:** 12 + I damage; A < AVERAGE, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)
+- **17+:** 16 + I damage; A < STRONG, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)

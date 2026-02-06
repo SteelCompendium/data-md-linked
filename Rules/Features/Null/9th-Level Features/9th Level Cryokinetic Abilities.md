@@ -48,8 +48,8 @@ Choose one of the following abilities.
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 8 + I cold damage; M < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 15 + I cold damage; M < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 8 + I cold damage; M < WEAK, [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)
+> - **12-16:** 11 + I cold damage; M < AVERAGE, [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)
+> - **17+:** 15 + I cold damage; M < STRONG, [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)
 >
-> **Effect:** While [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) this way, any potency associated with the damage is reduced by 2.
+> **Effect:** While [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) this way, the target takes cold damage equal to your Intuition score at the start of each of your turns. Additionally, whenever the target damages another creature while [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) this way, any potency associated with the damage is reduced by 2.

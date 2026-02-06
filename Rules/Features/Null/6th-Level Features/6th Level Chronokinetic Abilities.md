@@ -44,6 +44,6 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 6 damage; M < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-> - **12-16:** 8 damage; M < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
-> - **17+:** 12 damage; M < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D)
+> - **≤11:** 6 damage; M < WEAK, [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX)
+> - **12-16:** 8 damage; M < AVERAGE, [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX)
+> - **17+:** 12 damage; M < STRONG, [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX)

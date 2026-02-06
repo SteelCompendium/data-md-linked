@@ -45,4 +45,4 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 - **12-16:** 3 damage
 - **17+:** 5 damage
 
-**Strained:** You create five orbs, and you are [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) while you have any orbs active.
+**Strained:** You create five orbs, and you are [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) while you have any orbs active.

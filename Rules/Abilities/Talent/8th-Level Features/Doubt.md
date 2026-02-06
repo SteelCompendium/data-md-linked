@@ -37,9 +37,9 @@ type: feature/ability/talent/8th-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 10 + P damage; P < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 14 + P damage; P < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 20 + P damage; P < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) and [slowed](%7BREL_PATH_PREFIX%7DRules/Conditions/Slowed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 10 + P damage; P < WEAK, [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save ends)
+- **12-16:** 14 + P damage; P < AVERAGE, [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save ends)
+- **17+:** 20 + P damage; P < STRONG, [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) and [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) (save ends)
 
 **Effect:** This ability gains an edge against a target with a soul (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.
 

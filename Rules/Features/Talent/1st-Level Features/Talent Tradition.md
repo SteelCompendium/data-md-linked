@@ -18,7 +18,7 @@ type: feature/trait/talent/1st-level-feature
 
 #### Talent Tradition
 
-Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) traditions:
+Psionic abilities are grouped into categories according to their effects, with each category comprising one of many [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) traditions:
 
 - **Animapathy** abilities allow you to manipulate, meld, and exchange the souls of living things.
 - **Chronopathy** abilities allow you to view future and past events, and to manipulate time to aid allies and hinder foes.
@@ -29,4 +29,4 @@ Psionic abilities are grouped into categories according to their effects, with e
 - **Telekinesis** abilities allow you to physically manipulate creatures and objects.
 - **Telepathy** abilities allow you to communicate with, read, and influence the minds of other creatures.
 
-You choose a [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](%7BREL_PATH_PREFIX%7DRules/Classes/Talent%7BREL_PATH_SUFFIX%7D) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)
+You choose a [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition from the following options: chronopathy, telekinesis, or telepathy. Your [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition is your subclass, and your choice of tradition determines many of the features you'll gain as you gain new levels. (Other [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) traditions will be featured in future products.) (*Quick Build:* Telekinesis.)

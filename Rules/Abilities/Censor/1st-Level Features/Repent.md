@@ -36,6 +36,6 @@ type: feature/ability/censor/1st-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** 5 + P holy damage; I < WEAK, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 11 + P holy damage; I < STRONG, [dazed](%7BREL_PATH_PREFIX%7DRules/Conditions/Dazed%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 5 + P holy damage; I < WEAK, [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
+- **12-16:** 8 + P holy damage; I < AVERAGE, [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)
+- **17+:** 11 + P holy damage; I < STRONG, [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends)

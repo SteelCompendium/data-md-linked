@@ -37,10 +37,10 @@ type: feature/ability/elementalist/5th-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 2 corruption damage; A < WEAK, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-- **12-16:** 3 corruption damage; A < AVERAGE, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
-- **17+:** 5 corruption damage; A < STRONG, [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends)
+- **≤11:** 2 corruption damage; A < WEAK, [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)
+- **12-16:** 3 corruption damage; A < AVERAGE, [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)
+- **17+:** 5 corruption damage; A < STRONG, [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends)
 
-**Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is [restrained](%7BREL_PATH_PREFIX%7DRules/Conditions/Restrained%7BREL_PATH_SUFFIX%7D) (save ends).
+**Effect:** The area is difficult terrain until the start of your next turn. Each enemy who ends their turn in the area is [restrained](REL_PATH_PREFIXRules/Conditions/RestrainedREL_PATH_SUFFIX) (save ends).
 
 **Persistent 1:** The area remains until the start of your next turn.

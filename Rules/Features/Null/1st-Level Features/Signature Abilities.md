@@ -82,9 +82,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
-> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
-> - **17+:** 9 + A damage; A < STRONG, [grabbed](%7BREL_PATH_PREFIX%7DRules/Conditions/Grabbed%7BREL_PATH_SUFFIX%7D)
+> - **≤11:** 4 + A damage; A < WEAK, [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
+> - **12-16:** 7 + A damage; A < AVERAGE, [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
+> - **17+:** 9 + A damage; A < STRONG, [grabbed](REL_PATH_PREFIXRules/Conditions/GrabbedREL_PATH_SUFFIX)
 
 <!-- -->
 > ###### Kinetic Strike
@@ -97,9 +97,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT)
-> - **12-16:** 5 + A damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT), slide 1
-> - **17+:** 6 + A damage; [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT), slide 2
+> - **≤11:** 4 + A damage; [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT)
+> - **12-16:** 5 + A damage; [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT), slide 1
+> - **17+:** 6 + A damage; [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT), slide 2
 
 <!-- -->
 > ###### Magnetic Strike
@@ -131,7 +131,7 @@ Choose two signature abilities from the following options. Signature abilities c
 > - **12-16:** 6 + A damage; push 4
 > - **17+:** 8 + A damage; push 6
 >
-> **Effect:** Before the push is resolved, you [teleport](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](%7BREL_PATH_PREFIX%7DRules/Movement/Teleport%7BREL_PATH_SUFFIX%7D) this way, you can't push them.
+> **Effect:** Before the push is resolved, you [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) the target to a square adjacent to you and opposite the one they started in. If the target can't be [teleported](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) this way, you can't push them.
 
 <!-- -->
 > ###### Pressure Points
@@ -144,6 +144,6 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 4 + A damage; A < WEAK, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 9 + A damage; A < STRONG, [weakened](%7BREL_PATH_PREFIX%7DRules/Conditions/Weakened%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 4 + A damage; A < WEAK, [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save ends)
+> - **12-16:** 7 + A damage; A < AVERAGE, [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save ends)
+> - **17+:** 9 + A damage; A < STRONG, [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) (save ends)

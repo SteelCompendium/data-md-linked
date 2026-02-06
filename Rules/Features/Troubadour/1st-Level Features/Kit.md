@@ -18,4 +18,4 @@ type: feature/trait/troubadour/1st-level-feature
 
 #### Kit
 
-You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Swashbuckler](%7BREL_PATH_PREFIX%7DRules/Kits/Swashbuckler%7BREL_PATH_SUFFIX%7D).)
+You can use and gain the benefits of a kit. See Chapter 6: Kits for more information. (*Quick Build:* [Swashbuckler](REL_PATH_PREFIXRules/Kits/SwashbucklerREL_PATH_SUFFIX).)

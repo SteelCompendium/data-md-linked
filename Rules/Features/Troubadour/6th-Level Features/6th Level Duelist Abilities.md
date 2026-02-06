@@ -31,9 +31,9 @@ Choose one of the following abilities.
 >
 > **Power Roll + Agility:**
 >
-> - **≤11:** 12 + A damage; M < WEAK, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
-> - **17+:** 24 + A damage; [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (EoT), or if M < STRONG, [bleeding](%7BREL_PATH_PREFIX%7DRules/Conditions/Bleeding%7BREL_PATH_SUFFIX%7D) (save ends)
+> - **≤11:** 12 + A damage; M < WEAK, [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save ends)
+> - **12-16:** 18 + A damage; M < AVERAGE, [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save ends)
+> - **17+:** 24 + A damage; [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (EoT), or if M < STRONG, [bleeding](REL_PATH_PREFIXRules/Conditions/BleedingREL_PATH_SUFFIX) (save ends)
 
 <!-- -->
 > ###### Fight Choreography (9 Drama)

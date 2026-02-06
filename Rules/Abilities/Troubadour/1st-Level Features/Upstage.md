@@ -38,6 +38,6 @@ type: feature/ability/troubadour/1st-level-feature
 
 **Power Roll + Agility or Presence:**
 
-- **≤11:** [Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT); A < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-- **12-16:** [Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT); A < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-- **17+:** [Taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) (EoT); A < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) and can't stand (EoT)
+- **≤11:** [Taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT); A < WEAK, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
+- **12-16:** [Taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT); A < AVERAGE, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
+- **17+:** [Taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) (EoT); A < STRONG, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) and can't stand (EoT)

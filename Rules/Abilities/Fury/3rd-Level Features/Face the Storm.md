@@ -32,4 +32,4 @@ type: feature/ability/fury/3rd-level-feature
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](%7BREL_PATH_PREFIX%7DRules/Conditions/Taunted%7BREL_PATH_SUFFIX%7D) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.
+**Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P < AVERAGE is [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) until the end of their next turn. Additionally, when you use an ability that deals rolled damage against any enemy [taunted](REL_PATH_PREFIXRules/Conditions/TauntedREL_PATH_SUFFIX) by you, the ability deals extra damage equal to twice your Might score and increases its potency by 1.

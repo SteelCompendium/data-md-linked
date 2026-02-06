@@ -29,13 +29,13 @@ Choose one of the following abilities.
 > | ----------------------------- | ----------------------------: |
 > | **📏 Three 3 cubes within 1** | **🎯 Each enemy in the area** |
 >
-> **Effect:** A [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D) target ignores this ability.
+> **Effect:** A [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX) target ignores this ability.
 >
 > **Power Roll + Presence:**
 >
-> - **≤11:** 7 sonic damage; P < WEAK, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-> - **12-16:** 10 sonic damage; P < AVERAGE, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
-> - **17+:** 13 sonic damage; P < STRONG, [prone](%7BREL_PATH_PREFIX%7DRules/Conditions/Prone%7BREL_PATH_SUFFIX%7D)
+> - **≤11:** 7 sonic damage; P < WEAK, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
+> - **12-16:** 10 sonic damage; P < AVERAGE, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
+> - **17+:** 13 sonic damage; P < STRONG, [prone](REL_PATH_PREFIXRules/Conditions/ProneREL_PATH_SUFFIX)
 
 <!-- -->
 > ###### Legendary Drum Fill (9 Drama)
