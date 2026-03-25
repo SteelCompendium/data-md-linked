@@ -19,7 +19,7 @@ type: feature/trait/troubadour/5th-level-feature
 
 ###### We Can't Be Upstaged!
 
-You have the following performance ability, which is usable with your Routines feature.
+You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### We Can't Be Upstaged!

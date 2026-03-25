@@ -19,7 +19,7 @@ type: feature/trait/troubadour/8th-level-feature
 
 ##### Crowd Favorites
 
-You have the following performance abilities, which are usable with your Routines feature.
+You have the following performance abilities, which are usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### Moonlight Sonata

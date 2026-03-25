@@ -30,7 +30,7 @@ For example, if you take the [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%2
 - Ranged Damage Bonus: +0/+0/+4
 - Speed Bonus: +1
 - Ranged Distance Bonus: +10
-- Disengage Bonus: +1
+- [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) Bonus: +1
 - You can use the Patient Shot and Protective Attack signature abilities.
 
 Kit signature abilities have their kit's bonuses already applied, which might require you to adjust the bonuses of the signature abilities you gain from a kit. For example, you might take the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit's damage bonus, then the Battle Grace signature ability from the [Martial Artist](REL_PATH_PREFIXRules/Kits/Martial%20ArtistREL_PATH_SUFFIX) kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 outcomes to 3/6/9. It then gains the +0/+0/+4 of the [Mountain](REL_PATH_PREFIXRules/Kits/MountainREL_PATH_SUFFIX) kit to deal 3/6/13 damage.

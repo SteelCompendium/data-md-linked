@@ -18,4 +18,4 @@ type: feature/trait/fury/4th-level-feature
 
 #### Growing Ferocity Improvement
 
-Your Growing Ferocity feature provides additional benefits when you have 8 or more ferocity.
+Your [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) feature provides additional benefits when you have 8 or more ferocity.

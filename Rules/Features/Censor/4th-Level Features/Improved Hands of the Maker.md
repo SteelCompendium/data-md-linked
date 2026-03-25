@@ -19,4 +19,4 @@ type: feature/trait/censor/4th-level-feature
 
 ##### Improved Hands of the Maker
 
-When you use your Hands of the Maker ability, you can create a mundane object that is size 2 or smaller.
+When you use your [Hands of the Maker](REL_PATH_PREFIXRules/Abilities/Conduit/1st-Level%20Features/Hands%20of%20the%20MakerREL_PATH_SUFFIX) ability, you can create a mundane object that is size 2 or smaller.

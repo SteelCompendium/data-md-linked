@@ -23,7 +23,7 @@ Choose one of the following abilities.
 <!-- -->
 > ###### Cacophony of Cinders (11 Insight)
 >
-> *You tumble through the battle, stabbing foes and [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) allies.*
+> *You tumble through the battle, stabbing foes and teleporting allies.*
 >
 > | **Magic, Melee, Weapon** | **Main action** |
 > | ------------------------ | --------------: |

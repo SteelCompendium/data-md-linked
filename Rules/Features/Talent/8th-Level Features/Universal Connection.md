@@ -19,4 +19,4 @@ type: feature/trait/talent/8th-level-feature
 
 #### Universal Connection
 
-The range of your Telepathic Speech feature increases to anywhere on the same world.
+The range of your [Telepathic Speech](REL_PATH_PREFIXRules/Talent/1st-Level%20Features/Telepathic%20SpeechREL_PATH_SUFFIX) feature increases to anywhere on the same world.

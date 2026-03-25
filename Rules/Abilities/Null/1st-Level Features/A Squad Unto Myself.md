@@ -40,4 +40,4 @@ type: feature/ability/null/1st-level-feature
 - **12-16:** 9 damage
 - **17+:** 13 damage
 
-**Effect:** You can take the Disengage move action as a free maneuver before or after you use this ability.
+**Effect:** You can take the [Disengage](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/DisengageREL_PATH_SUFFIX) move action as a free maneuver before or after you use this ability.
