@@ -35,8 +35,8 @@ type: feature/ability/null/6th-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** Vertical slide 5
-- **12-16:** Vertical slide 7
-- **17+:** Vertical slide 9
+- **≤11:** [Vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide 5
+- **12-16:** [Vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide 7
+- **17+:** [Vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide 9
 
-**Effect:** This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.
+**Effect:** This movement ignores [stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX). If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature's space.

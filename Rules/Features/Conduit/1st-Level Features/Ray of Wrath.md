@@ -18,7 +18,7 @@ type: feature/trait/conduit/1st-level-feature
 
 #### Ray of Wrath
 
-You have the following ability, which can be used as a ranged free strike.
+You have the following ability, which can be used as a ranged [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).
 
 <!-- -->
 > ###### Ray of Wrath

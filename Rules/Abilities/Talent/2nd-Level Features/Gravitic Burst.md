@@ -37,8 +37,8 @@ type: feature/ability/talent/2nd-level-feature
 
 **Power Roll + Reason:**
 
-- **≤11:** 3 damage; vertical push 2
-- **12-16:** 6 damage; vertical push 4
-- **17+:** 9 damage; vertical push 6
+- **≤11:** 3 damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) push 2
+- **12-16:** 6 damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) push 4
+- **17+:** 9 damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) push 6
 
 **Strained:** The size of the burst increases by 1, and you are [weakened](REL_PATH_PREFIXRules/Conditions/WeakenedREL_PATH_SUFFIX) until the end of your turn.

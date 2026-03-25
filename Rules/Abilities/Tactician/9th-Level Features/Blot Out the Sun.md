@@ -33,4 +33,4 @@ type: feature/ability/tactician/9th-level-feature
 | -------------- | ------------------------------------: |
 | **📏 3 burst** | **🎯 Self and each ally in the area** |
 
-**Effect:** Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.
+**Effect:** Each target can make a ranged [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX) that gains an edge against any enemy marked by you within distance of their ranged [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX). A target ignores banes and double banes when making this strike.

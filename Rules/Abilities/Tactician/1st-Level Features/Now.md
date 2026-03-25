@@ -32,4 +32,4 @@ type: feature/ability/tactician/1st-level-feature
 | ---------------- | ------------------: |
 | **📏 Ranged 10** | **🎯 Three allies** |
 
-**Effect:** Each target can make a free strike.
+**Effect:** Each target can make a [free strike](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/Free%20StrikeREL_PATH_SUFFIX).

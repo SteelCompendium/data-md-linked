@@ -36,8 +36,8 @@ type: feature/ability/null/6th-level-feature
 
 **Power Roll + Intuition:**
 
-- **≤11:** Vertical slide 6
-- **12-16:** Vertical slide 8
-- **17+:** Vertical slide 10
+- **≤11:** [Vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide 6
+- **12-16:** [Vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide 8
+- **17+:** [Vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) slide 10
 
 **Effect:** The pillars vanish as soon as the effects of the forced movement are resolved.

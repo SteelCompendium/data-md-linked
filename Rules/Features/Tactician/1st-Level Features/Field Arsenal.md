@@ -25,7 +25,7 @@ If both kits grant you the same benefit, you take one or the other and can't cha
 For example, if you take the [Shining Armor](REL_PATH_PREFIXRules/Kits/Shining%20ArmorREL_PATH_SUFFIX) and [Sniper](REL_PATH_PREFIXRules/Kits/SniperREL_PATH_SUFFIX) kits, you gain the following benefits overall:
 
 - Stamina Bonus: +12 per echelon
-- Stability Bonus: +1
+- [Stability](REL_PATH_PREFIXRules/Movement/StabilityREL_PATH_SUFFIX) Bonus: +1
 - Melee Damage Bonus: +2/+2/+2
 - Ranged Damage Bonus: +0/+0/+4
 - Speed Bonus: +1

@@ -65,9 +65,9 @@ Choose two signature abilities from the following options. Signature abilities c
 >
 > **Power Roll + Intuition:**
 >
-> - **≤11:** 3 + I holy damage; vertical pull 2
-> - **12-16:** 5 + I holy damage; vertical pull 3
-> - **17+:** 8 + I holy damage; vertical pull 4
+> - **≤11:** 3 + I holy damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 2
+> - **12-16:** 5 + I holy damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 3
+> - **17+:** 8 + I holy damage; [vertical](REL_PATH_PREFIXRules/Movement/VerticalREL_PATH_SUFFIX) pull 4
 
 <!-- -->
 > ###### Lightfall
