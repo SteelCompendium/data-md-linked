@@ -8,7 +8,7 @@ distance: Self; see below
 feature_type: ability
 file_basename: Cacophony of Cinders
 file_dpath: Abilities/Shadow/9th-Level Features
-flavor: You tumble through the battle, stabbing foes and teleporting allies.
+flavor: You tumble through the battle, stabbing foes and [teleporting](scc:mcdm.heroes.v1:movement:teleport) allies.
 item_id: cacophony-of-cinders-11-insight
 item_index: '04'
 item_name: Cacophony of Cinders (11 Insight)
@@ -29,7 +29,7 @@ type: feature/ability/shadow/9th-level-feature
 
 ###### Cacophony of Cinders (11 Insight)
 
-*You tumble through the battle, stabbing foes and teleporting allies.*
+*You tumble through the battle, stabbing foes and [teleporting](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) allies.*
 
 | **Magic, Melee, Weapon** | **Main action** |
 | ------------------------ | --------------: |

@@ -19,4 +19,4 @@ type: feature/trait/null/8th-level-feature
 
 ##### Synaptic Triage
 
-As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your Null Field ability also gains this benefit.
+As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability also gains this benefit.

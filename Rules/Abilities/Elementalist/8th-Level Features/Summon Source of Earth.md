@@ -56,7 +56,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 <!-- -->
 > **Tunneler**
 >
-> When the source burrows, they create a size 2 tunnel.
+> When the source [burrows](REL_PATH_PREFIXRules/Movement/BurrowREL_PATH_SUFFIX), they create a size 2 tunnel.
 
 <!-- -->
 > **Earth Harness**

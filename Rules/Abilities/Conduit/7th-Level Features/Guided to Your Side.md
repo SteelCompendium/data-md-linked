@@ -5,7 +5,7 @@ distance: Ranged 10
 feature_type: ability
 file_basename: Guided to Your Side
 file_dpath: Abilities/Conduit/7th-Level Features
-flavor: You concentrate on a friend and teleport to them.
+flavor: You concentrate on a friend and [teleport](scc:mcdm.heroes.v1:movement:teleport) to them.
 item_id: guided-to-your-side
 item_index: '05'
 item_name: Guided to Your Side
@@ -25,7 +25,7 @@ type: feature/ability/conduit/7th-level-feature
 
 ###### Guided to Your Side
 
-*You concentrate on a friend and teleport to them.*
+*You concentrate on a friend and [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX) to them.*
 
 | **Magic, Ranged** |           **Main action** |
 | ----------------- | ------------------------: |

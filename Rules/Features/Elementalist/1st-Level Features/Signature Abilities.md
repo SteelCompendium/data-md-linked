@@ -55,7 +55,7 @@ Choose two signature abilities from the following options. Signature abilities c
 <!-- -->
 > ###### Grasp of Beyond
 >
-> *You absorb the life energy of another creature and use it to teleport.*
+> *You absorb the life energy of another creature and use it to [teleport](REL_PATH_PREFIXRules/Movement/TeleportREL_PATH_SUFFIX).*
 >
 > | **Magic, Melee, Strike, Void** |     **Main action** |
 > | ------------------------------ | ------------------: |

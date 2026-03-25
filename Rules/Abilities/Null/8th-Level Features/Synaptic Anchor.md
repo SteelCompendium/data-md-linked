@@ -32,6 +32,6 @@ type: feature/ability/null/8th-level-feature
 | ---------------------- | --------------------------: |
 | **📏 Self; see below** | **🎯 Self or one creature** |
 
-**Trigger:** The target takes damage from another creature's ability while in the area of your Null Field ability.
+**Trigger:** The target takes damage from another creature's ability while in the area of your [Null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) Field ability.
 
 **Effect:** The target takes half the damage, and if the triggering creature has I < AVERAGE, they are [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) (save ends). While the triggering creature is [dazed](REL_PATH_PREFIXRules/Conditions/DazedREL_PATH_SUFFIX) this way, they take psychic damage equal to your Intuition score whenever they use a main action.

@@ -23,7 +23,7 @@ You have the following ability.
 <!-- -->
 > ###### Accelerate
 >
-> *To your ally, it seems as though the world has slowed down.*
+> *To your ally, it seems as though the world has [slowed](REL_PATH_PREFIXRules/Conditions/SlowedREL_PATH_SUFFIX) down.*
 >
 > | **Psionic, Ranged** |                **Maneuver** |
 > | ------------------- | --------------------------: |

@@ -43,4 +43,4 @@ type: feature/ability/talent/3rd-level-feature
 
 **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
 
-**Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a human). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
+**Strained:** You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a [human](REL_PATH_PREFIXRules/Ancestries/HumanREL_PATH_SUFFIX)). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.
