@@ -15,4 +15,4 @@ type: common-ability/maneuver
 
 #### Hide
 
-Using the Hide maneuver, a creature attempts to hide from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: Tests for full details.
+Using the [Hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) maneuver, a creature attempts to [hide](REL_PATH_PREFIXRules/Abilities/Common/Maneuvers/HideREL_PATH_SUFFIX) from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: Tests for full details.

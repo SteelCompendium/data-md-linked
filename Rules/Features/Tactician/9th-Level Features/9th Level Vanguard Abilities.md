@@ -25,9 +25,9 @@ Choose one of the following abilities.
 >
 > *Nothing will stop you from reaching your foe.*
 >
-> | **Charge, Melee, Strike, Weapon** |     **Main action** |
-> | --------------------------------- | ------------------: |
-> | **📏 Melee 1**                    | **🎯 One creature** |
+> | **[Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX), Melee, Strike, Weapon** |     **Main action** |
+> | --------------------------------------------------------------------------------------------------------------- | ------------------: |
+> | **📏 Melee 1**                                                                                                  | **🎯 One creature** |
 >
 > **Effect:** You mark the target.
 >
@@ -37,7 +37,7 @@ Choose one of the following abilities.
 > - **12-16:** 16 + M damage
 > - **17+:** 21 + M damage
 >
-> **Effect:** If you use this ability as part of the Charge main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your charge.
+> **Effect:** If you use this ability as part of the [Charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX) main action, enemies' spaces don't count as difficult terrain for your movement. Additionally, if you move through any creature's space, you can slide that creature 1 square out of the path of your [charge](REL_PATH_PREFIXRules/Abilities/Common/Main%20Actions/ChargeREL_PATH_SUFFIX).
 
 <!-- -->
 > ###### That One Is Mine! (11 Focus)
