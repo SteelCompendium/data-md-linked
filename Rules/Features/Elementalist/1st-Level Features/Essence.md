@@ -30,7 +30,7 @@ You lose any remaining essence at the end of the encounter.
 
 ##### Essence Outside of Combat
 
-Though you can't gain [essence outside of combat](scc:mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:essence-outside-of-combat), you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
+Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
 
 When you use a persistent ability outside of combat (see [Persistent Magic](REL_PATH_PREFIXRules/Elementalist/1st-Level%20Features/Persistent%20MagicREL_PATH_SUFFIX) below), you can maintain it for a number of rounds equal to your Victories.
 

@@ -22,11 +22,11 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 
 ###### 1st-Level College Features Table
 
-| College         | Feature                                                                                                                                                                                            |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Black Ash       | [Black Ash Teleport](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20TeleportREL_PATH_SUFFIX)                                                                             |
-| Caustic Alchemy | [Coat the Blade](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Coat%20the%20BladeREL_PATH_SUFFIX), [Smoke Bomb](scc:mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:smoke-bomb) |
-| Harlequin Mask  | I'm No Threat                                                                                                                                                                                      |
+| College         | Feature                                                                                                                    |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Black Ash       | [Black Ash Teleport](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Black%20Ash%20TeleportREL_PATH_SUFFIX)     |
+| Caustic Alchemy | [Coat the Blade](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Coat%20the%20BladeREL_PATH_SUFFIX), Smoke Bomb |
+| Harlequin Mask  | I'm No Threat                                                                                                              |
 
 ##### Black Ash Teleport
 
