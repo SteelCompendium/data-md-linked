@@ -22,11 +22,11 @@ Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tac
 
 ###### 1st-Level Doctrine Features Table
 
-| Doctrine   | Feature             |
-| ---------- | ------------------- |
-| Insurgent  | Covert Operations   |
-| Mastermind | Studied Commander   |
-| Vanguard   | Commanding Presence |
+| Doctrine   | Feature                                                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Covert Operations](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Covert%20OperationsREL_PATH_SUFFIX)     |
+| Mastermind | [Studied Commander](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Studied%20CommanderREL_PATH_SUFFIX)     |
+| Vanguard   | [Commanding Presence](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/1st-Level%20Doctrine%20Feature/Commanding%20PresenceREL_PATH_SUFFIX) |
 
 ##### Commanding Presence
 

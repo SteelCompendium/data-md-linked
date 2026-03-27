@@ -18,7 +18,7 @@ type: feature/trait/conduit/1st-level-feature
 
 #### Prayer
 
-Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) Ward below) by praying to your god as a respite activity. (*Quick Build:* Prayer of Distance.)
+Your god answers a prayer with enhancements to your body and mind. Choose one of the following prayers. You can change your prayer along with your ward (see [Conduit](REL_PATH_PREFIXRules/Classes/ConduitREL_PATH_SUFFIX) Ward below) by praying to your god as a respite activity. (*Quick Build:* [Prayer of Distance](REL_PATH_PREFIXRules/Conduit/1st-Level%20Features/Prayer/Prayer%20of%20DistanceREL_PATH_SUFFIX).)
 
 ##### Prayer of Destruction
 

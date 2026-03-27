@@ -18,7 +18,7 @@ type: feature/trait/null/6th-level-feature
 
 #### 6th-Level Tradition Ability
 
-Your [null](REL_PATH_PREFIXRules/Classes/NullREL_PATH_SUFFIX) tradition grants your choice of one of two heroic abilities.
+Your null tradition grants your choice of one of two heroic abilities.
 
 ##### 6th-Level Chronokinetic Abilities
 

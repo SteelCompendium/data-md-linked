@@ -18,7 +18,7 @@ type: feature/trait/troubadour/1st-level-feature
 
 #### Class Act Triggered Action
 
-Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class act grants you a triggered action, as shown on the Class Act Triggered Actions table.
+Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class act grants you a triggered action, as shown on the [Class Act Triggered Actions](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/Class%20Act%20Triggered%20ActionREL_PATH_SUFFIX) table.
 
 ###### Class Act Triggered Actions Table
 

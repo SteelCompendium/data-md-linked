@@ -18,7 +18,7 @@ type: feature/trait/talent/1st-level-feature
 
 #### Talent Ward
 
-Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and psionic augmentation (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Repulsive Ward.)
+Through meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward and [psionic augmentation](REL_PATH_PREFIXRules/Talent/1st-Level%20Features/Psionic%20AugmentationREL_PATH_SUFFIX) (see above) by undergoing a psionic meditation as a respite activity. (*Quick Build:* [Repulsive Ward](REL_PATH_PREFIXRules/Talent/1st-Level%20Features/Talent%20Ward/Repulsive%20WardREL_PATH_SUFFIX).)
 
 ##### Entropy Ward
 

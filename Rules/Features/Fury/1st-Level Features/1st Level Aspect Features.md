@@ -22,11 +22,11 @@ Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordi
 
 ###### 1st-Level Aspect Features Table
 
-| Aspect     | Feature                        |
-| ---------- | ------------------------------ |
-| Berserker  | Kit, Primordial Strength       |
-| Reaver     | Kit, Primordial Cunning        |
-| Stormwight | Beast Shape, Relentless Hunter |
+| Aspect     | Feature                                                                                                                                                                                                                                                        |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Berserker  | Kit, [Primordial Strength](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20StrengthREL_PATH_SUFFIX)                                                                                                                  |
+| Reaver     | Kit, [Primordial Cunning](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Primordial%20CunningREL_PATH_SUFFIX)                                                                                                                    |
+| Stormwight | [Beast Shape](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Beast%20ShapeREL_PATH_SUFFIX), [Relentless Hunter](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/1st-Level%20Aspect%20Features/Relentless%20HunterREL_PATH_SUFFIX) |
 
 ##### Beast Shape
 

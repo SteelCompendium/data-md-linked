@@ -18,4 +18,4 @@ type: feature/subtrait/conduit/4th-level-feature
 
 ###### Improved Sanctified Weapon
 
-The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.
+The weapon improved by your [Sanctified Weapon](REL_PATH_PREFIXRules/Censor/1st-Level%20Features/1st-Level%20Domain%20Feature/Sanctified%20WeaponREL_PATH_SUFFIX) feature grants a +3 bonus to rolled damage instead of +1.
