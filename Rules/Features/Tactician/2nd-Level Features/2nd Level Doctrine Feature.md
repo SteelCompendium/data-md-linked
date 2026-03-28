@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 2nd Level Doctrine Feature
-file_dpath: Tactician/2nd-Level Features
+file_dpath: Features/Tactician/2nd-Level Features
 item_id: 2nd-level-doctrine-feature
 item_index: '03'
 item_name: 2nd-Level Doctrine Feature
@@ -18,15 +18,15 @@ type: feature/trait/tactician/2nd-level-feature
 
 #### 2nd-Level Doctrine Feature
 
-Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
+Your [tactical doctrine](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants you a feature, as shown on the 2nd-Level Doctrine Features table.
 
 ###### 2nd-Level Doctrine Features Table
 
-| Doctrine   | Feature                                                                                                                                          |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Insurgent  | [Infiltration Tactics](REL_PATH_PREFIXRules/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Infiltration%20TacticsREL_PATH_SUFFIX) |
-| Mastermind | [Goaded](REL_PATH_PREFIXRules/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/GoadedREL_PATH_SUFFIX)                               |
-| Vanguard   | [Melee Superiority](REL_PATH_PREFIXRules/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Melee%20SuperiorityREL_PATH_SUFFIX)       |
+| Doctrine   | Feature                                                                                                                                                   |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Insurgent  | [Infiltration Tactics](REL_PATH_PREFIXRules/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Infiltration%20TacticsREL_PATH_SUFFIX) |
+| Mastermind | [Goaded](REL_PATH_PREFIXRules/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/GoadedREL_PATH_SUFFIX)                               |
+| Vanguard   | [Melee Superiority](REL_PATH_PREFIXRules/Features/Tactician/2nd-Level%20Features/2nd-Level%20Doctrine%20Feature/Melee%20SuperiorityREL_PATH_SUFFIX)       |
 
 ##### Goaded
 

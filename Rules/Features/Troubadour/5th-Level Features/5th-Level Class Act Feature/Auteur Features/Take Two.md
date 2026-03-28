@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Take Two
-file_dpath: Troubadour/5th-Level Features/5th-Level Class Act Feature/Auteur Features
+file_dpath: Features/Troubadour/5th-Level Features/5th-Level Class Act Feature/Auteur Features
 item_id: take-two
 item_index: '05'
 item_name: Take Two!
@@ -18,7 +18,7 @@ type: feature/subtrait/troubadour/5th-level-feature
 
 ###### Take Two!
 
-You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+You have the following performance ability, which is usable with your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### Take Two!

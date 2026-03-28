@@ -3,7 +3,7 @@ action_type: feature
 class: tactician
 feature_type: trait
 file_basename: 2nd Level Doctrine Ability
-file_dpath: Tactician/2nd-Level Features
+file_dpath: Features/Tactician/2nd-Level Features
 item_id: 2nd-level-doctrine-ability
 item_index: '01'
 item_name: 2nd-Level Doctrine Ability
@@ -18,7 +18,7 @@ type: feature/trait/tactician/2nd-level-feature
 
 #### 2nd-Level Doctrine Ability
 
-Your [tactical doctrine](REL_PATH_PREFIXRules/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants your choice of one of two heroic abilities.
+Your [tactical doctrine](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/Tactical%20DoctrineREL_PATH_SUFFIX) grants your choice of one of two heroic abilities.
 
 ##### 2nd-Level Insurgent Ability
 

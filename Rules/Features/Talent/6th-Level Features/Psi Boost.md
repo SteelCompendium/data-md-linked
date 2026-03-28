@@ -3,7 +3,7 @@ action_type: feature
 class: talent
 feature_type: trait
 file_basename: Psi Boost
-file_dpath: Talent/6th-Level Features
+file_dpath: Features/Talent/6th-Level Features
 item_id: psi-boost
 item_index: '03'
 item_name: Psi Boost
@@ -18,7 +18,7 @@ type: feature/trait/talent/6th-level-feature
 
 #### Psi Boost
 
-Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](REL_PATH_PREFIXRules/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX) to it and enhance its effects. A [psi boost](REL_PATH_PREFIXRules/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](REL_PATH_PREFIXRules/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](REL_PATH_PREFIXRules/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX).
+Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a [psi boost](REL_PATH_PREFIXRules/Features/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX) to it and enhance its effects. A [psi boost](REL_PATH_PREFIXRules/Features/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX)'s effects only last until the end of the turn which the ability is first used. You can apply multiple [psi boosts](REL_PATH_PREFIXRules/Features/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX) to an ability, but only one instance of each specific boost. You can use the following [psi boosts](REL_PATH_PREFIXRules/Features/Talent/6th-Level%20Features/Psi%20BoostREL_PATH_SUFFIX).
 
 ##### Dynamic Power (1 Clarity)
 

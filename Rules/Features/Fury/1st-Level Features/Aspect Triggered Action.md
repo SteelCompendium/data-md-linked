@@ -3,7 +3,7 @@ action_type: feature
 class: fury
 feature_type: trait
 file_basename: Aspect Triggered Action
-file_dpath: Fury/1st-Level Features
+file_dpath: Features/Fury/1st-Level Features
 item_id: aspect-triggered-action
 item_index: '06'
 item_name: Aspect Triggered Action
@@ -18,7 +18,7 @@ type: feature/trait/fury/1st-level-feature
 
 #### Aspect Triggered Action
 
-Your [primordial aspect](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a triggered action, as shown on the [Aspect Triggered Actions](REL_PATH_PREFIXRules/Fury/1st-Level%20Features/Aspect%20Triggered%20ActionREL_PATH_SUFFIX) table.
+Your [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Primordial%20AspectREL_PATH_SUFFIX) grants you a triggered action, as shown on the [Aspect Triggered Actions](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Aspect%20Triggered%20ActionREL_PATH_SUFFIX) table.
 
 ###### Aspect Triggered Actions Table
 

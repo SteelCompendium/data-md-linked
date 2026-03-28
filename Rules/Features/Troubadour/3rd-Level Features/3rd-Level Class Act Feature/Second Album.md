@@ -3,7 +3,7 @@ action_type: feature
 class: troubadour
 feature_type: subtrait
 file_basename: Second Album
-file_dpath: Troubadour/3rd-Level Features/3rd-Level Class Act Feature
+file_dpath: Features/Troubadour/3rd-Level Features/3rd-Level Class Act Feature
 item_id: second-album
 item_index: '01'
 item_name: Second Album
@@ -18,7 +18,7 @@ type: feature/subtrait/troubadour/3rd-level-feature
 
 ##### Second Album
 
-You have the following performance abilities, which are usable with your [Routines](REL_PATH_PREFIXRules/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
+You have the following performance abilities, which are usable with your [Routines](REL_PATH_PREFIXRules/Features/Troubadour/1st-Level%20Features/RoutinesREL_PATH_SUFFIX) feature.
 
 <!-- -->
 > ###### "Fire Up the Night"
