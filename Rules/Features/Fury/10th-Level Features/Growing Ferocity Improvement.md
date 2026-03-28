@@ -18,4 +18,4 @@ type: feature/trait/fury/10th-level-feature
 
 #### Growing Ferocity Improvement
 
-Your [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) feature provides additional benefits when you have 12 or more ferocity.
+Your [Growing Ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/Growing%20FerocityREL_PATH_SUFFIX) feature provides additional benefits when you have 12 or more [ferocity](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features/FerocityREL_PATH_SUFFIX).

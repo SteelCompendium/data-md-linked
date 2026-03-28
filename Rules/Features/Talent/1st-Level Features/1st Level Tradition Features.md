@@ -24,8 +24,8 @@ Your [talent](REL_PATH_PREFIXRules/Classes/TalentREL_PATH_SUFFIX) tradition gran
 
 | Tradition   | Features                                                                                                                                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chronopathy | Accelerate, Again                                                                                                                                                                                                              |
-| Telekinesis | [Minor Telekinesis](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/Minor%20TelekinesisREL_PATH_SUFFIX), Repel                                                                                                      |
+| Chronopathy | [Accelerate](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/1st-Level%20Tradition%20Features/AccelerateREL_PATH_SUFFIX), Again                                                                                      |
+| Telekinesis | [Minor Telekinesis](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/Minor%20TelekinesisREL_PATH_SUFFIX), [Repel](REL_PATH_PREFIXRules/Features/Talent/1st-Level%20Features/RepelREL_PATH_SUFFIX)                    |
 | Telepathy   | [Feedback Loop](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/Feedback%20LoopREL_PATH_SUFFIX), [Remote Assistance](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/Remote%20AssistanceREL_PATH_SUFFIX) |
 
 ##### Accelerate

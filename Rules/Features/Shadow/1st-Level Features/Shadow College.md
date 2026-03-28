@@ -18,7 +18,7 @@ type: feature/trait/shadow/1st-level-feature
 
 #### Shadow College
 
-[Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master [shadows](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+[Shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
 You graduated from a [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 

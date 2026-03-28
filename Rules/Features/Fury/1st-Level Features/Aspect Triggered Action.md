@@ -39,7 +39,7 @@ Your [primordial aspect](REL_PATH_PREFIXRules/Features/Fury/1st-Level%20Features
 >
 > **Trigger:** You lose Stamina and are not dying.
 >
-> **Effect:** You gain temporary Stamina equal to your Might score and can enter your [animal form](REL_PATH_PREFIXRules/Complications/Animal%20FormREL_PATH_SUFFIX) or hybrid form.
+> **Effect:** You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.
 >
 > **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 

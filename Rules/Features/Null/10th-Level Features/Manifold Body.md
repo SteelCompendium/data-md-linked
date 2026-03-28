@@ -18,4 +18,4 @@ type: feature/trait/null/10th-level-feature
 
 #### Manifold Body
 
-When you gain discipline at the start of each of your turns during combat, you gain 4 discipline instead of 3.
+When you gain [discipline](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/DisciplineREL_PATH_SUFFIX) at the start of each of your turns during combat, you gain 4 discipline instead of 3.

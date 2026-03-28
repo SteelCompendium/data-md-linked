@@ -15,4 +15,4 @@ type: common-ability/move-action
 
 #### Advance
 
-When a creature takes the Advance move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
+When a creature takes the [Advance](REL_PATH_PREFIXRules/Abilities/Common/Move%20Actions/AdvanceREL_PATH_SUFFIX) move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.

@@ -18,4 +18,4 @@ type: feature/trait/elementalist/10th-level-feature
 
 #### Essential Being
 
-When you gain essence at the start of each of your turns during combat, you gain 4 essence instead of 3.
+When you gain [essence](REL_PATH_PREFIXRules/Features/Elementalist/1st-Level%20Features/EssenceREL_PATH_SUFFIX) at the start of each of your turns during combat, you gain 4 essence instead of 3.
