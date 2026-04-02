@@ -18,7 +18,7 @@ type: feature/trait/null/9th-level-feature
 
 #### 9th-Level Tradition Ability
 
-Your null tradition grants your choice of one of two heroic abilities.
+Your [null tradition](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Null%20TraditionREL_PATH_SUFFIX) grants your choice of one of two heroic abilities.
 
 ##### 9th-Level Chronokinetic Abilities
 

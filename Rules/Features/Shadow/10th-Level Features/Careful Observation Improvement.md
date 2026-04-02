@@ -18,4 +18,4 @@ type: feature/trait/shadow/10th-level-feature
 
 #### Careful Observation Improvement
 
-You can target three creatures simultaneously with your [Careful Observation](REL_PATH_PREFIXRules/Abilities/Shadow/3rd-Level%20Features/Careful%20ObservationREL_PATH_SUFFIX) ability.
+You can target three creatures simultaneously with your [Careful Observation](REL_PATH_PREFIXRules/Features/Shadow/3rd-Level%20Features/Careful%20ObservationREL_PATH_SUFFIX) ability.

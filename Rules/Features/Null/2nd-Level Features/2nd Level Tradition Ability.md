@@ -18,7 +18,7 @@ type: feature/trait/null/2nd-level-feature
 
 #### 2nd-Level Tradition Ability
 
-Your null tradition grants your choice of one of two abilities.
+Your [null tradition](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Null%20TraditionREL_PATH_SUFFIX) grants your choice of one of two abilities.
 
 ##### 2nd-Level Chronokinetic Ability
 

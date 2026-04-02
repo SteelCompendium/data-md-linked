@@ -18,7 +18,7 @@ type: feature/trait/null/2nd-level-feature
 
 #### 2nd-Level Tradition Feature
 
-Your null tradition grants you a feature, as shown on the 2nd-Level Tradition Features table.
+Your [null tradition](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Null%20TraditionREL_PATH_SUFFIX) grants you a feature, as shown on the 2nd-Level Tradition Features table.
 
 ###### 2nd-Level Tradition Features Table
 

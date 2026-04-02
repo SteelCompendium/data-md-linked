@@ -18,7 +18,7 @@ type: feature/trait/null/5th-level-feature
 
 #### 5th-Level Tradition Feature
 
-Your null tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
+Your [null tradition](REL_PATH_PREFIXRules/Features/Null/1st-Level%20Features/Null%20TraditionREL_PATH_SUFFIX) grants you a feature, as shown on the 5th-Level Tradition Features table.
 
 ###### 5th-Level Tradition Features Table
 
