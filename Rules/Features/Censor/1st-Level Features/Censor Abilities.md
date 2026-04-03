@@ -94,7 +94,7 @@ You call upon a number of heroic abilities, all of them bound to your [wrath](RE
 
 ###### 3-Wrath Ability
 
-Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* The Gods Punish and Defend.)
+Choose one heroic ability from the following options, each of which costs 3 wrath to use. (*Quick Build:* [The Gods Punish and Defend](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/The%20Gods%20Punish%20and%20DefendREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Behold a Shield of Faith! (3 Wrath)
@@ -164,7 +164,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 ###### 5-Wrath Ability
 
-Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* Purifying Fire.)
+Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* [Purifying Fire](REL_PATH_PREFIXRules/Abilities/Censor/1st-Level%20Features/Purifying%20FireREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Arrest (5 Wrath)

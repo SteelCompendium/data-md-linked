@@ -18,7 +18,7 @@ type: feature/trait/tactician/1st-level-feature
 
 #### Focus
 
-The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX).
+The ring of [steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX) panics others but brings order to your mind, granting you a Heroic Resource called [focus](REL_PATH_PREFIXRules/Features/Tactician/1st-Level%20Features/FocusREL_PATH_SUFFIX).
 
 ##### Focus in Combat
 

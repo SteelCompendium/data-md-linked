@@ -26,7 +26,7 @@ Your [troubadour](REL_PATH_PREFIXRules/Classes/TroubadourREL_PATH_SUFFIX) class 
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Auteur    | [Turnabout Is Fair Play](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/Turnabout%20Is%20Fair%20PlayREL_PATH_SUFFIX) |
 | Duelist   | [Riposte](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/RiposteREL_PATH_SUFFIX)                                     |
-| Virtuoso  | Harmonize                                                                                                                            |
+| Virtuoso  | [Harmonize](REL_PATH_PREFIXRules/Abilities/Troubadour/1st-Level%20Features/HarmonizeREL_PATH_SUFFIX)                                 |
 
 <!-- -->
 > ###### Harmonize (3 Drama)

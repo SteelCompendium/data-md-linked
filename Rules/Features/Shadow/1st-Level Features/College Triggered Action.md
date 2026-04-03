@@ -26,7 +26,7 @@ Your [shadow](REL_PATH_PREFIXRules/Classes/ShadowREL_PATH_SUFFIX) college grants
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Black Ash       | [In All This Confusion](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/In%20All%20This%20ConfusionREL_PATH_SUFFIX) |
 | Caustic Alchemy | [Defensive Roll](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Defensive%20RollREL_PATH_SUFFIX)                   |
-| Harlequin Mask  | Clever Trick                                                                                                                   |
+| Harlequin Mask  | [Clever Trick](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Clever%20TrickREL_PATH_SUFFIX)                       |
 
 <!-- -->
 > ###### Clever Trick (1 Insight)

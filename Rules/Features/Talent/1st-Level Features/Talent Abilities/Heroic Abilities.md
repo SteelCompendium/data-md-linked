@@ -22,7 +22,7 @@ You know a range of heroic abilities, all of which cost clarity to fuel them.
 
 ###### 3-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Choke.)
+Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* [Choke](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/ChokeREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Awe (3 Clarity)
@@ -88,7 +88,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 ###### 5-Clarity Ability
 
-Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* Inertia Soak.)
+Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* [Inertia Soak](REL_PATH_PREFIXRules/Abilities/Talent/1st-Level%20Features/Inertia%20SoakREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Flashback (5 Clarity)

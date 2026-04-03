@@ -22,7 +22,7 @@ A range of heroic abilities define your combat prowess, all of which make use of
 
 ###### 3-Insight Ability
 
-Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* Get In Get Out.)
+Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* [Get In Get Out](REL_PATH_PREFIXRules/Abilities/Shadow/1st-Level%20Features/Get%20In%20Get%20OutREL_PATH_SUFFIX).)
 
 <!-- -->
 > ###### Disorienting Strike (3 Insight)

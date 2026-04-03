@@ -19,4 +19,4 @@ type: feature/trait/null/5th-level-feature
 
 #### Chilling Readiness
 
-You steel yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of surges equal to your Victories.
+You [steel](REL_PATH_PREFIXRules/Abilities/Talent/8th-Level%20Features/SteelREL_PATH_SUFFIX) yourself for imminent danger by tapping into your body's cold energy. At the start of any combat, you gain a number of surges equal to your Victories.
